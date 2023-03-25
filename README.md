@@ -15,4 +15,4 @@ Mientras tanto, los archivos de salida compilados se generarán en la carpeta de
 
 ## Gestión de dependencias
 
-La vista le permite administrar sus dependencias. Más detalles se pueden encontrar aquí. JAVA PROJECTS (https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+La vista le permite administrar sus dependencias. Más detalles se pueden encontrar aquí. [JAVA PROJECTS]  (https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
