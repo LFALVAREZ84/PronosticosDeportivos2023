@@ -15,7 +15,7 @@ public class Pronostico {
 
         try {
             camino = new FileReader(
-                    "C:\\Users\\Luisfa\\OneDrive\\Escritorio\\Arg-Programa-4.0\\PronosticosDeportivos\\src\\Datos\\resultados.csv");
+                    "C:\\Users\\Luisfa\\OneDrive\\Escritorio\\Arg-Programa-4.0\\PronosticosDeportivos\\src\\Datos\\pronostico.csv");
             lector = new BufferedReader(camino);
             String linea;
 
