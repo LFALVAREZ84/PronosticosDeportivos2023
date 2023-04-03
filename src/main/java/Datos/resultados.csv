@@ -1,0 +1,7 @@
+id_Partido;id_Equipo;Equipo1;GolesEquipo1;GolesEquipo2;Equipo2;id_Equipo
+1;1;Argentina;1;2;Arabia Saudita;2
+2;3;Polonia;0;0;México;4
+3;3;Polonia;2;0;Arabia Saudita;2
+4;1;Argentina;2;0;México;4
+5;3;Polonia;0;2;Argentina;1
+6;2;Arabia Saudita;1;2;México;4
