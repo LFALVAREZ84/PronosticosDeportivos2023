@@ -24,7 +24,7 @@ public class PronosticosDeportivos {
 	
 	try {
 		// Abrir el archivo resultados.csv
-		resultados = new FileReader("/home/LFALVAREZ/Escritorio/PronosticosDeportivos/src/main/java/Datos/resultados.csv");
+		resultados = new FileReader(args[0]);
 
 		//Leer todas las filas del archivo resultados.csv
 		lector1 = new BufferedReader(resultados);
@@ -40,7 +40,7 @@ public class PronosticosDeportivos {
 		resultados.close();
 
 		// Abrir el archivo pronosticos.csv
-		pronosticos = new FileReader("/home/LFALVAREZ/Escritorio/PronosticosDeportivos/src/main/java/Datos/pronosticos.csv");
+		pronosticos = new FileReader(args[1]);
 
 		//Leer todas las filas del archivo pronosticos.csv
 		lector2 = new BufferedReader(pronosticos);
