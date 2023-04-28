@@ -1,9 +1,0 @@
-id_Participante;NomParticipante;﻿id_Equipo1;Equipo1;Ganador1;Empate;Ganador2;Equipo2; id_Equipo2
-1;Mariana;1;Argentina;X;;;Arabia Saudita;2
-1;Mariana;3;México;;X;;Polonia;4
-1;Mariana;2;Arabia Saudita;;;X;Polonia;4
-1;Mariana;1;Argentina;X;;;México;3
-2;Pedro;1;Argentina;X;;;Arabia Saudita;2
-2;Pedro;3;México;;;X;Polonia;4
-2;Pedro;2;Arabia Saudita;;X;;Polonia;4
-2;Pedro;1;Argentina;X;;;México;3
