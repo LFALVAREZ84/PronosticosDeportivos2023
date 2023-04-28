@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"utn.ar.tpintegrador.pronosticosdeportivos2023","c":"PronosticosDeportivos2023","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"utn.ar.tpintegrador.pronosticosdeportivos2023","c":"PronosticosDeportivos2023","l":"PronosticosDeportivos2023()","u":"%3Cinit%3E()"}];updateSearchResults();

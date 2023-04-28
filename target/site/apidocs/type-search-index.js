@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"utn.ar.tpintegrador.pronosticosdeportivos2023","l":"PronosticosDeportivos2023"}];updateSearchResults();

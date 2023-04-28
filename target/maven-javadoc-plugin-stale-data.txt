@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'D:/OneDrive/Escritorio/PronosticosDeportivos2023/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/OneDrive/Escritorio/PronosticosDeportivos2023/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PronosticosDeportivos2023 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PronosticosDeportivos2023 1.0-SNAPSHOT API'
+utn.ar.tpintegrador.pronosticosdeportivos2023
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\src\main\java = 1682714526884
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\allclasses-index.html = 1682715226792
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\allpackages-index.html = 1682715226795
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\copy.svg = 1682715226817
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\element-list = 1682715226732
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\help-doc.html = 1682715226813
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\index-all.html = 1682715226805
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\index.html = 1682715226809
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\jquery-ui.overrides.css = 1682715226868
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\member-search-index.js = 1682715226798
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\module-search-index.js = 1682715226796
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\overview-tree.html = 1682715226783
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\package-search-index.js = 1682715226797
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\script.js = 1682715226816
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\search-page.js = 1682715226832
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\search.html = 1682715226807
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\search.js = 1682715226831
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\stylesheet.css = 1682715226815
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\tag-search-index.js = 1682715226799
+D:\OneDrive\Escritorio\PronosticosDeportivos2023\target\site\apidocs\type-search-index.js = 1682715226797
