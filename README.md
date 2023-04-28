@@ -9,7 +9,7 @@ El área de trabajo contiene dos carpetas de forma predeterminada, donde:
 - `src` la carpeta para mantener los orígenes
 - `src/main/java/utn/ar/tpintegrador` en la carpeta se encuentran las clases y el archivo *.java
 - `src/main/java/Datos/` contiene la base de datos:
-- - Archivos "pronosticos.csv" y "resultados.csv" 
+-  Archivos "pronosticos.csv" y "resultados.csv" 
 
 ## Gestión de dependencias
 
