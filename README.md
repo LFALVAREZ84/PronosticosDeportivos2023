@@ -1,6 +1,6 @@
 ## Guía de inicio
 
-Bienvenido, en esta brach se encuentra la primera parte del proyecto propuesto por Argentina Programa 4.0
+Bienvenido, en esta branch se encuentra la primera parte del proyecto propuesto por Argentina Programa 4.0
 
 ## Estructura de carpetas
 
