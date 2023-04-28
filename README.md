@@ -1,18 +1,15 @@
 ## Guía de inicio
 
-Bienvenido al mundo Java de VS Code. Esta es una guía para ayudarle a empezar a escribir código Java en Visual Studio Code.
+Bienvenido, aqui desarrollaremos el proyecto propuesto por Argentina Programa 4.0
 
-## Estructura de carpetas
+## Branch Primera Parte - Segunda Parte - Tercera Parte
 
-El área de trabajo contiene dos carpetas de forma predeterminada, donde:
+El área de trabajo contiene tres (3) Branch, donde se desarrollara el proyecto por etapas, compuesto de la siguiente forma:
 
-- `src` la carpeta para mantener los orígenes
-- `lib`: la carpeta para mantener las dependencias
+- `Primera-Parte` Se desarrollara la primera entrega del trabajo integrador.
+- `Segunda-Parte` Se desarrollara la segunda entrega del trabajo integrador.
+- `Tercera Parte` Se desarrollara la primera entrega del trabajo integrador.
 
-Mientras tanto, los archivos de salida compilados se generarán en la carpeta de forma predeterminada.`bin`
+## 
 
-> Si desea personalizar la estructura de carpetas, abra y actualice la configuración relacionada allí.`.vscode/settings.json`
-
-## Gestión de dependencias
-
-La vista `JAVA PROJECTS` le permite administrar sus dependencias. Más detalles se pueden encontrar [aquí](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+¡Saludos!
